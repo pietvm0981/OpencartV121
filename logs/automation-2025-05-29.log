@@ -1,0 +1,58 @@
+17:33:58.356 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+17:33:58.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+17:33:59.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:34:00.048 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:37:28.208 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\grouping.xml
+
+17:37:56.313 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+17:37:56.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:37:57.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:37:57.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:37:58.383 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+17:37:58.514 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+17:37:59.928 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:38:00.042 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:38:06.047 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:38:06.052 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+17:38:06.226 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+17:38:06.895 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+17:38:07.292 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+17:38:07.429 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+17:38:08.620 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:06:52.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\grouping.xml
+
+18:06:59.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:07:00.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:07:01.317 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:07:01.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:07:02.234 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+18:07:02.402 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+18:07:03.825 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:07:03.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:07:09.907 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:07:09.909 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+18:07:10.071 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+18:07:10.709 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+18:07:11.106 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+18:07:11.252 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+18:07:12.453 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:09:36.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\grouping.xml
+
+18:09:43.975 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:09:44.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:09:45.260 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:09:45.261 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:09:46.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+18:09:46.326 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+18:09:47.638 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:09:47.733 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:09:53.249 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:09:53.254 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+18:09:53.502 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+18:09:54.187 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+18:09:54.565 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+18:09:54.694 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+18:09:55.861 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****

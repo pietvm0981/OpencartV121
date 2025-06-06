@@ -1,0 +1,56 @@
+23:29:49.068 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:29:49.095 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+23:29:49.465 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+23:29:50.582 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+23:29:51.118 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+23:29:52.715 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+23:29:52.816 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:24:03.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\myworkspaces\SeleniumWebDriver\OpencartV121\grid-docker.xml
+
+15:24:35.898 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:24:42.477 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:24:50.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:24:50.937 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:24:52.799 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+15:24:53.115 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+15:24:55.017 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:24:55.240 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:25:01.284 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:25:01.285 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+15:25:01.616 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+15:25:02.797 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+15:25:03.450 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+15:25:05.047 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+15:25:06.621 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:25:41.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:25:42.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:25:45.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:25:45.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:25:47.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+15:25:47.570 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+15:25:53.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:25:55.788 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:26:09.235 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:26:09.237 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+15:26:09.594 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+15:26:10.596 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+15:26:11.360 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+15:26:12.920 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+15:26:13.045 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:26:41.352 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:26:42.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:26:44.622 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:26:44.623 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:26:46.477 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+15:26:46.783 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+15:26:48.587 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:26:48.715 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:26:55.979 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:26:55.980 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+15:26:56.576 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+15:26:57.843 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+15:26:58.617 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+15:27:00.194 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+15:27:00.334 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:27:16.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****

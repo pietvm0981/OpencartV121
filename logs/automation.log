@@ -1,0 +1,44 @@
+13:27:17.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:27:18.652 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:27:18.653 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+13:27:19.648 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+13:27:19.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+13:27:21.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:27:21.499 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:27:29.847 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:27:29.853 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+13:27:30.172 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+13:27:30.929 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+13:27:31.381 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+13:27:32.772 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+13:27:32.835 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+14:21:22.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:21:23.330 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:21:24.469 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:21:24.469 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:21:25.395 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+14:21:25.528 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+14:21:27.087 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:21:27.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:21:34.580 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:21:34.581 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+14:21:34.901 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+14:21:35.704 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+14:21:36.112 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+14:21:37.384 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+14:21:37.454 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+14:41:07.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+14:41:07.572 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:41:08.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:41:08.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+14:41:09.591 [main] INFO  testCases.TC001_AccountRegistrationTest - Accepting Privacy Policy
+14:41:09.731 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue button
+14:41:11.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:41:11.229 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:41:18.663 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:41:18.668 [main] INFO  testCases.TC002_LoginTest - Click on My Account link
+14:41:18.895 [main] INFO  testCases.TC002_LoginTest - Click on Login link
+14:41:19.548 [main] INFO  testCases.TC002_LoginTest - Fill in email and password
+14:41:19.962 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+14:41:21.234 [main] INFO  testCases.TC002_LoginTest - Verify user is on the My Account page
+14:41:21.292 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
